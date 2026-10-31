@@ -1,0 +1,12 @@
+{
+  "name": "A.H.K. AI Companion",
+  "description": "Premium AI companion Android application powered by conversational AI, voice interaction, and a persistent animated female AI avatar with Bengali and English support.",
+  "requestFramePermissions": [
+    "android.permission.RECORD_AUDIO",
+    "android.permission.MODIFY_AUDIO_SETTINGS"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
